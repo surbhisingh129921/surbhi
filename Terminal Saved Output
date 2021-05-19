@@ -1,0 +1,372 @@
+Last login: Fri Mar 12 11:49:23 on console
+surbhisingh@Surbhis-MacBook-Air angular-11-client % ng-serve
+zsh: command not found: ng-serve
+surbhisingh@Surbhis-MacBook-Air angular-11-client % ng serve               
+Your global Angular CLI version (11.2.0) is greater than your local version (11.0.2). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+    'node-sass' usage is deprecated and will be removed in a future major version. To opt-out of the deprecated behaviour and start using 'sass' uninstall 'node-sass'.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names         |      Size
+vendor.js           | vendor        |   3.03 MB
+polyfills.js        | polyfills     | 141.37 kB
+main.js             | main          |  86.45 kB
+runtime.js          | runtime       |   6.15 kB
+styles.css          | styles        | 119 bytes
+
+                    | Initial Total |   3.25 MB
+
+Build at: 2021-03-14T07:55:08.055Z - Hash: cb66738fe9af2d34c613 - Time: 13899ms
+
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+
+✔ Compiled successfully.
+
+  [Restored 16-Mar-2021 at 10:46:55 AM]
+Last login: Tue Mar 16 10:46:48 on console
+surbhisingh@Surbhis-MacBook-Air angular-11-client % 
+  [Restored 19-May-2021 at 1:18:19 PM]
+Last login: Wed May 19 11:35:24 on console
+surbhisingh@Surbhis-MacBook-Air angular-11-client % cd..
+zsh: command not found: cd..
+surbhisingh@Surbhis-MacBook-Air angular-11-client % cd
+surbhisingh@Surbhis-MacBook-Air ~ % cd
+surbhisingh@Surbhis-MacBook-Air ~ % git --version
+git version 2.23.0
+surbhisingh@Surbhis-MacBook-Air ~ % cd /Users/surbhisingh/Documents/saurabh/Saurabh L/GIT
+cd: string not in pwd: /Users/surbhisingh/Documents/saurabh/Saurabh
+surbhisingh@Surbhis-MacBook-Air ~ % cd..
+zsh: command not found: cd..
+surbhisingh@Surbhis-MacBook-Air ~ % cd /Users/surbhisingh/Documents/saurabh/Saurabh L/GIT
+cd: string not in pwd: /Users/surbhisingh/Documents/saurabh/Saurabh
+surbhisingh@Surbhis-MacBook-Air ~ % d:
+zsh: command not found: d:
+surbhisingh@Surbhis-MacBook-Air ~ % clear
+
+
+
+surbhisingh@Surbhis-MacBook-Air ~ % cd /Users/surbhisingh/Documents/saurabh/Saurabh L/GIT
+cd: string not in pwd: /Users/surbhisingh/Documents/saurabh/Saurabh
+surbhisingh@Surbhis-MacBook-Air ~ % mkdir git
+surbhisingh@Surbhis-MacBook-Air ~ % ls -l
+total 520
+drwx------@   6 surbhisingh  staff     192 May  7 15:45 Applications
+drwx------@ 129 surbhisingh  staff    4128 May 17 13:22 Desktop
+drwx------    4 surbhisingh  staff     128 Jan  4  2020 Desktop copy
+drwx------@  12 surbhisingh  staff     384 Apr 23 15:37 Documents
+drwx------@ 193 surbhisingh  staff    6176 May 19 12:31 Downloads
+drwxr-xr-x@  14 surbhisingh  staff     448 Feb 21 14:22 HBase
+drwxr-xr-x   11 surbhisingh  staff     352 Jun 27  2020 Hibernate
+drwxr-xr-x    3 surbhisingh  staff      96 Sep 26  2020 Java8
+drwx------+  77 surbhisingh  staff    2464 May  7 15:45 Library
+drwx------+   4 surbhisingh  staff     128 Jan  5  2020 Movies
+drwxr-xr-x    4 surbhisingh  staff     128 Jul  8  2020 Multithreading
+drwx------+   5 surbhisingh  staff     160 Jan  5  2020 Music
+drwx------+   5 surbhisingh  staff     160 Mar  4  2020 Pictures
+drwxr-xr-x    3 surbhisingh  staff      96 Jun 27  2020 Postman
+drwxr-xr-x+   4 surbhisingh  staff     128 Oct  4  2019 Public
+drwxr-xr-x    4 surbhisingh  staff     128 Jun 27  2020 RESTRealTime
+drwxr-xr-x    3 surbhisingh  staff      96 Oct 15  2020 RestExample
+drwxr-xr-x@  11 surbhisingh  staff     352 Mar 26 14:32 RestWebServicePractice
+drwxr-xr-x    6 surbhisingh  staff     192 Jun 28  2020 SpringMVC
+drwxr-xr-x    4 surbhisingh  staff     128 Feb 21 14:51 SpringRest
+drwxr-xr-x   12 surbhisingh  staff     384 Jul  4  2020 SpringSecurity
+drwxr-xr-x    6 surbhisingh  staff     192 Jun  8  2020 SpringTutorial
+drwxr-xr-x    6 surbhisingh  staff     192 Apr 23 17:25 Test
+drwxr-xr-x    4 surbhisingh  staff     128 Nov  1  2020 angularSpringMVC
+-rw-rw-r--@   1 surbhisingh  staff  264875 Nov  1  2019 book.txt
+drwxr-xr-x    7 surbhisingh  staff     224 May 25  2020 dev-Spring
+drwxr-xr-x    6 surbhisingh  staff     192 Jul  3  2020 eclipse-workspace
+drwxr-xr-x   17 surbhisingh  staff     544 Nov 17  2020 getting-started
+drwxr-xr-x    2 surbhisingh  staff      64 May 19 13:27 git
+drwx------    5 surbhisingh  staff     160 Feb  1  2020 iCloud Drive (Archive)
+drwx------    5 surbhisingh  staff     160 Dec 14 22:20 iCloud Drive (Archive) - 1
+drwxr-xr-x    3 surbhisingh  staff      96 Jul  4  2020 junit
+drwxr-xr-x    8 surbhisingh  staff     256 Jun 14  2020 maven
+drwxr-xr-x    4 surbhisingh  staff     128 Jun 27  2020 rest
+drwxr-xr-x   10 surbhisingh  staff     320 Mar 31  2020 sc
+drwxr-xr-x    7 surbhisingh  staff     224 Jun 28  2020 springboot
+drwxr-xr-x    7 surbhisingh  staff     224 Jun 28  2020 springbootRestCRUDapi
+drwxr-xr-x    9 surbhisingh  staff     288 Jun 28  2020 surbhiKumariSingh-spring-demo-one
+drwxr-xr-x    3 surbhisingh  staff      96 Jun 28  2020 thymeleaf
+drwxr-xr-x   14 surbhisingh  staff     448 Nov  1  2020 todo
+drwxr-xr-x    4 surbhisingh  staff     128 Mar 27  2020 workspace
+drwxr-xr-x    3 surbhisingh  staff      96 Mar 19  2020 workspaceSpark
+drwxr-xr-x    3 surbhisingh  staff      96 Mar 19  2020 workspacep
+surbhisingh@Surbhis-MacBook-Air ~ % cd /Documents/saurabh/Saurabh L
+cd: string not in pwd: /Documents/saurabh/Saurabh
+surbhisingh@Surbhis-MacBook-Air ~ % cd Documents/
+surbhisingh@Surbhis-MacBook-Air Documents % cd saurabh/
+surbhisingh@Surbhis-MacBook-Air saurabh % cd Saurabh L/
+cd: string not in pwd: Saurabh
+surbhisingh@Surbhis-MacBook-Air saurabh % cd SaurabhL/ 
+cd: no such file or directory: SaurabhL/
+surbhisingh@Surbhis-MacBook-Air saurabh % mkdir gitLearning
+surbhisingh@Surbhis-MacBook-Air saurabh % ls -l
+total 558248
+drwxr-xr-x@  4 surbhisingh  staff        128 Mar 13  2020 AddToCart
+drwxr-xr-x@  7 surbhisingh  staff        224 Mar  9  2020 DemoScala
+drwxr-xr-x@  5 surbhisingh  staff        160 Mar 27  2020 EclipseSparkScala
+drwxr-xr-x@ 12 surbhisingh  staff        384 Apr  1  2020 Html And Css
+drwxr-xr-x@ 31 surbhisingh  staff        992 May 19 13:29 Saurabh L
+drwxr-xr-x   5 surbhisingh  staff        160 Mar 17  2020 Scala
+drwxr-xr-x@ 11 surbhisingh  staff        352 Mar 30  2020 ScalaNew
+drwxr-xr-x@  5 surbhisingh  staff        160 Mar  7  2020 Spring Security Book Code
+drwxrwxr-x@  3 surbhisingh  staff         96 Sep 29  2017 eclipse 2.app
+drwxrwxr-x@  3 surbhisingh  staff         96 Sep 29  2017 eclipse.app
+drwxr-xr-x   2 surbhisingh  staff         64 May 19 13:31 gitLearning
+-rw-r--r--@  1 surbhisingh  staff  281641255 Mar 19  2020 scala-SDK-4.7.0-vfinal-2.12-macosx.cocoa.x86_64.zip
+drwxr-xr-x   7 surbhisingh  staff        224 Mar 27  2020 untitled
+surbhisingh@Surbhis-MacBook-Air saurabh % cd..
+zsh: command not found: cd..
+surbhisingh@Surbhis-MacBook-Air saurabh % cd
+surbhisingh@Surbhis-MacBook-Air ~ % cd Saurabh L/
+cd: string not in pwd: Saurabh
+surbhisingh@Surbhis-MacBook-Air ~ % ls -l
+total 520
+drwx------@   6 surbhisingh  staff     192 May  7 15:45 Applications
+drwx------@ 129 surbhisingh  staff    4128 May 17 13:22 Desktop
+drwx------    4 surbhisingh  staff     128 Jan  4  2020 Desktop copy
+drwx------@  12 surbhisingh  staff     384 Apr 23 15:37 Documents
+drwx------@ 193 surbhisingh  staff    6176 May 19 12:31 Downloads
+drwxr-xr-x@  14 surbhisingh  staff     448 Feb 21 14:22 HBase
+drwxr-xr-x   11 surbhisingh  staff     352 Jun 27  2020 Hibernate
+drwxr-xr-x    3 surbhisingh  staff      96 Sep 26  2020 Java8
+drwx------+  77 surbhisingh  staff    2464 May  7 15:45 Library
+drwx------+   4 surbhisingh  staff     128 Jan  5  2020 Movies
+drwxr-xr-x    4 surbhisingh  staff     128 Jul  8  2020 Multithreading
+drwx------+   5 surbhisingh  staff     160 Jan  5  2020 Music
+drwx------+   5 surbhisingh  staff     160 Mar  4  2020 Pictures
+drwxr-xr-x    3 surbhisingh  staff      96 Jun 27  2020 Postman
+drwxr-xr-x+   4 surbhisingh  staff     128 Oct  4  2019 Public
+drwxr-xr-x    4 surbhisingh  staff     128 Jun 27  2020 RESTRealTime
+drwxr-xr-x    3 surbhisingh  staff      96 Oct 15  2020 RestExample
+drwxr-xr-x@  11 surbhisingh  staff     352 Mar 26 14:32 RestWebServicePractice
+drwxr-xr-x    6 surbhisingh  staff     192 Jun 28  2020 SpringMVC
+drwxr-xr-x    4 surbhisingh  staff     128 Feb 21 14:51 SpringRest
+drwxr-xr-x   12 surbhisingh  staff     384 Jul  4  2020 SpringSecurity
+drwxr-xr-x    6 surbhisingh  staff     192 Jun  8  2020 SpringTutorial
+drwxr-xr-x    6 surbhisingh  staff     192 Apr 23 17:25 Test
+drwxr-xr-x    4 surbhisingh  staff     128 Nov  1  2020 angularSpringMVC
+-rw-rw-r--@   1 surbhisingh  staff  264875 Nov  1  2019 book.txt
+drwxr-xr-x    7 surbhisingh  staff     224 May 25  2020 dev-Spring
+drwxr-xr-x    6 surbhisingh  staff     192 Jul  3  2020 eclipse-workspace
+drwxr-xr-x   17 surbhisingh  staff     544 Nov 17  2020 getting-started
+drwx------    5 surbhisingh  staff     160 Feb  1  2020 iCloud Drive (Archive)
+drwx------    5 surbhisingh  staff     160 Dec 14 22:20 iCloud Drive (Archive) - 1
+drwxr-xr-x    3 surbhisingh  staff      96 Jul  4  2020 junit
+drwxr-xr-x    8 surbhisingh  staff     256 Jun 14  2020 maven
+drwxr-xr-x    4 surbhisingh  staff     128 Jun 27  2020 rest
+drwxr-xr-x   10 surbhisingh  staff     320 Mar 31  2020 sc
+drwxr-xr-x    7 surbhisingh  staff     224 Jun 28  2020 springboot
+drwxr-xr-x    7 surbhisingh  staff     224 Jun 28  2020 springbootRestCRUDapi
+drwxr-xr-x    9 surbhisingh  staff     288 Jun 28  2020 surbhiKumariSingh-spring-demo-one
+drwxr-xr-x    3 surbhisingh  staff      96 Jun 28  2020 thymeleaf
+drwxr-xr-x   14 surbhisingh  staff     448 Nov  1  2020 todo
+drwxr-xr-x    4 surbhisingh  staff     128 Mar 27  2020 workspace
+drwxr-xr-x    3 surbhisingh  staff      96 Mar 19  2020 workspaceSpark
+drwxr-xr-x    3 surbhisingh  staff      96 Mar 19  2020 workspacep
+surbhisingh@Surbhis-MacBook-Air ~ % clear
+
+surbhisingh@Surbhis-MacBook-Air ~ % cd
+surbhisingh@Surbhis-MacBook-Air ~ % mkdir gitLearning
+surbhisingh@Surbhis-MacBook-Air ~ % cd gitLearning/
+surbhisingh@Surbhis-MacBook-Air gitLearning % pwd
+/Users/surbhisingh/gitLearning
+surbhisingh@Surbhis-MacBook-Air gitLearning % git init
+Initialized empty Git repository in /Users/surbhisingh/gitLearning/.git/
+surbhisingh@Surbhis-MacBook-Air gitLearning % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+surbhisingh@Surbhis-MacBook-Air gitLearning % git config --global user.name "surbhi"
+surbhisingh@Surbhis-MacBook-Air gitLearning % 
+surbhisingh@Surbhis-MacBook-Air gitLearning % git config --global user.email "surbhi.singh.1295@gmail.com"
+surbhisingh@Surbhis-MacBook-Air gitLearning % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+surbhisingh@Surbhis-MacBook-Air gitLearning % git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+surbhisingh@Surbhis-MacBook-Air gitLearning % vi test.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi this is surbhi
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+~                                                                                                                                                                  
+-- INSERT --
